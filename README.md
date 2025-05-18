@@ -5,7 +5,7 @@
 
 ## 📝 Sobre o Projeto
 
-Frontend interativo sobre o mundo dos peixes Betta (Betta splendens), desenvolvido com React, TypeScript e estilizado com Tailwind CSS. O site apresenta informações detalhadas sobre morfologia, comportamento, origem e características destas belas criaturas aquáticas.
+Frontend interativo sobre o mundo dos peixes Betta (Betta splendens), desenvolvido com React, TypeScript e estilizado com Tailwind CSS. O site apresenta informações detalhadas sobre morfologia, comportamento, origem e características das criaturas aquáticas.
 
 ## 🌐 Website
 
