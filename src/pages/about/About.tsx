@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const About = () => {
     return (
-        <div className="bg-black min-h-screen w-full text-white overflow-x-hidden relative">
+        <div className="bg-black min-h-screen w-full text-white overflow-hidden relative">
             <motion.div
                 className="container mx-auto px-4 py-8 md:py-16"
                 initial="hidden"
